@@ -1,0 +1,11 @@
+- Rename zsl?
+- Namespace all macros
+- Implement atomics
+- Implement threads
+- implement time
+- Test on gcc/clang/msvc
+- Benchmark. Make faster than std!!!
+- Add backtrace function and other debugging functions!
+- Cleanup tests.h
+- Add coroutines
+- Better comments
